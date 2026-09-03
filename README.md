@@ -1,163 +1,113 @@
 # 👋 Hi, I'm Olukayode Abiodun
 
-### Product Designer • UX Researcher • Software Engineer • Data Professional
+### Product Designer • UX Researcher • Software Engineer • Data Professional • Technology Builder
 
-I’m a technology enthusiast and builder focused on understanding complex problems, designing meaningful digital experiences, building reliable software, and turning data into useful insights and intelligent solutions.
+I’m a technology enthusiast and builder focused on **understanding complex problems, designing meaningful digital experiences, building reliable software, and turning data into useful insights and intelligent solutions.**
 
-My work spans **Product Design, UX Research, Software Engineering, Data Analytics, Data Science, Data Engineering, Cloud Computing, and AI**.
+My work spans **Product Design, UX Research, Software Engineering, Data Analytics, Data Science, Data Engineering, Cloud Computing, Artificial Intelligence, and DevOps.**
 
----
-
-## 🚀 What I'm Building
-
-### 🌍 NeoSphere
-
-A unified ecosystem for discovering, verifying, experiencing, booking, renting, buying, investing in, managing, and sharing real and virtual places.
-
-**Focus:**
-Product Design • UX Research • Real Estate Technology • Trust & Verification • Payments • Property Management • Data • AI
+I continuously learn, research, experiment, and develop across these disciplines **by building real products and solving real problems.**
 
 ---
 
-### 📚 NeoAlexandria
+# 🚀 What I'm Building
 
-An open educational ecosystem inspired by the Library of Alexandria, designed to improve access to knowledge, research, learning, assessment, and academic collaboration.
+## 📚 NeoAlexandria
 
-**Focus:**
-EdTech • AI • Research • Education • Knowledge Systems • Data
+An open knowledge and education ecosystem inspired by the **Library of Alexandria**, designed to make learning, research, academic resources, and knowledge creation more accessible.
+
+NeoAlexandria explores the intersection of **education, research, technology, AI, publishing, assessment, and collaborative knowledge creation.**
 
 ---
 
-## 🧠 My Areas of Work
+## 🏥 NeoHealth
 
-### 🎨 Product Design & UX
+A technology ecosystem focused on **improving access to healthcare, connecting people with healthcare services and information, and using data and intelligent technologies to create better healthcare experiences.**
 
-* UX Research
-* User Interviews
-* Usability Testing
-* User Journey Mapping
-* Information Architecture
-* Interaction Design
-* Product Design
-* Design Systems
-* Wireframing
-* Prototyping
-* Product Strategy
+NeoHealth explores the intersection of **healthcare, technology, data, AI, digital platforms, and human-centered design.**
+
+---
+
+## 🌍 NeoSphere — The Vision on the Horizon
+
+A unified ecosystem for **discovering, verifying, experiencing, booking, renting, buying, investing in, managing, and sharing real and virtual places.**
+
+NeoSphere is the **long-term vision I am working toward**, and the reason I am deliberately developing a broad understanding of product design, UX research, software engineering, data, cloud computing, AI, and infrastructure.
+
+I am not trying to master these disciplines in isolation. I am developing them **one capability at a time, through building and problem-solving**, with NeoSphere on the horizon.
+
+---
+
+# 🧠 My Approach
+
+I believe meaningful technological expertise is developed through **continuous learning, experimentation, research, and building.**
+
+I learn by:
+
+- Understanding real problems
+- Researching the people and systems involved
+- Designing solutions
+- Building and testing products
+- Working with data
+- Engineering reliable systems
+- Exploring cloud and infrastructure
+- Applying AI where it creates genuine value
+- Iterating and improving
+
+The journey is continuous.
+
+**I learn as I build, and I build as I learn.**
+
+---
+
+# 🛠️ Areas I'm Building Across
+
+### 🎨 Product & Design
+
+Product Design • UI/UX • UX Research • Prototyping • Design Systems • Usability Testing
 
 ### 💻 Software Engineering
 
-* JavaScript
-* Python
-* HTML
-* CSS
-* Node.js
-* SQL
-* APIs
-* Git & GitHub
-* Backend Development
-* Full-Stack Development
+JavaScript • Python • C++ • Java • HTML • CSS • SQL • React • Node.js • APIs • Databases • System Design
 
-### 📊 Data Analytics
+### 📊 Data & Intelligence
 
-* Data Analysis
-* Exploratory Data Analysis
-* Data Visualization
-* Statistical Analysis
-* Business Intelligence
-* SQL Analytics
-* Dashboard Development
-* Data Storytelling
-
-### 🔬 Data Science
-
-* Python for Data Science
-* Statistical Modelling
-* Machine Learning
-* Predictive Analytics
-* Data Mining
-* Feature Engineering
-* Model Evaluation
-* AI/ML Applications
-
-### 🏗️ Data Engineering
-
-* Data Pipelines
-* ETL / ELT
-* Data Warehousing
-* Data Integration
-* Database Systems
-* Data Processing
-* Workflow Automation
-* Data Architecture
+Data Analytics • Data Science • Data Engineering • Machine Learning • Artificial Intelligence
 
 ### ☁️ Cloud & Infrastructure
 
-* AWS
-* Cloud Architecture
-* Linux
-* Docker
-* CI/CD
-* DevOps
-* Infrastructure
-* Cloud-based Data Systems
+AWS • Linux • Docker • Kubernetes • Terraform • CI/CD • DevOps
+
+### 🔬 Research & Problem Solving
+
+User Research • Systems Thinking • Product Research • Data-Driven Decision Making • Continuous Experimentation
 
 ---
 
-## 🔬 How I Work
+# 🌍 Looking Ahead
 
-I believe great technology begins with understanding the problem before building the solution.
+My journey is about more than acquiring technical skills.
 
-My approach is:
+It is about **developing the ability to understand, design, engineer, and scale complex technology systems.**
 
-**Research → Understand → Analyze → Define → Ideate → Design → Build → Test → Measure → Improve**
+Today, that journey includes **NeoAlexandria and NeoHealth**.
 
-For data-driven problems:
+On the horizon is **NeoSphere**.
 
-**Collect → Clean → Transform → Analyze → Model → Communicate → Decide**
-
-I value evidence, experimentation, documentation, usability, scalability, and continuous improvement.
+I’m building the knowledge, experience, and capabilities required to eventually turn that larger vision into reality.
 
 ---
 
-## 📂 What You'll Find Here
+# 🤝 Open to Collaboration
 
-This GitHub profile contains my:
+I’m interested in collaborating with people who are passionate about:
 
-* 🔬 UX research
-* 🎨 Product and UI/UX design
-* 💻 Software engineering projects
-* 📊 Data analytics projects
-* 🧠 Data science & machine learning projects
-* 🏗️ Data engineering projects
-* ☁️ AWS & cloud projects
-* ⚙️ DevOps experiments
-* 🤖 AI projects
-* 🧪 Prototypes and experiments
-* 📚 Learning projects
-* 📖 Technical documentation
+**Technology • Product Development • Research • Design • AI • Data • Cloud • Education • Healthcare • Real Estate • Entrepreneurship • Africa • Global Impact**
+
+If you're building something meaningful, feel free to connect.
 
 ---
 
-## 🏗️ Building in Public
+### 🚀 Learn. Build. Solve. Evolve.
 
-I believe the **process is part of the product**.
-
-I don't want to show only the final result. I document the journey behind the work:
-
-**Problem → Research → Evidence → Analysis → Strategy → Design → Engineering → Data → Testing → Deployment → Iteration**
-
----
-
-## 🌍 Vision
-
-I want to build technology that solves meaningful problems and creates measurable value, particularly for people and businesses across Africa and the wider world.
-
-I am especially interested in the intersection of:
-
-**People + Design + Data + Software + AI + Cloud**
-
-> **Understand deeply. Design intentionally. Build responsibly. Measure honestly. Improve continuously.**
-
----
-
-### 📍 Nigeria | 🌍 Building for Africa and beyond
+**Building toward the horizon.**
